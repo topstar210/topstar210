@@ -3,7 +3,7 @@
 ## Senior Web & Mobile Developer.
 
 - 🔭 I'm a full time developer.
-- 🌱 I'm a Software Engineer, specialized in Javascript,java,swift.
+- 🌱 I'm a Software Engineer, specialized in Javascript,PHP.
 
 ### Connect with me:
 
