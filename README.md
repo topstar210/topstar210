@@ -1,18 +1,22 @@
 ### Hi there. 👋
 
-## Professional Web & Mobile Developer.
+## Professional Web & Blockchain Developer.
 
 - 🔭 I'm a full time developer.
 - 🌱 I'm a Software Engineer, specialized in Javascript,PHP.
 
-### Connect with me:
+<br />
+
+### ⚡ Connect with me:
 
 [<img align="left" alt="social-media-profile | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="social-media-profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.ca372e9fc0b9ef75]
 <br />
 
-### Languages and Tools:
+<br />
+
+### ⚡ Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
@@ -29,21 +33,16 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
 <br />
 <br />
-
----
-
-<img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=topstar210&show_icons=true&hide_border=true" />
-
-[facebook]: https://www.facebook.com/
-[instagram]: https://www.instagram.com/
-
-<br /><br />
----
 
 ### ⚡ Recent GitHub Activity
 <br/>
  <img alt="topstar210's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=topstar210&custom_title=topstar210's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
-<br/>
+
+
+---
+<br />
+<img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=topstar210&show_icons=true&hide_border=true" />
+
+
