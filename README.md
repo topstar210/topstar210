@@ -2,17 +2,8 @@
 
 ## Professional Web & Blockchain Developer.
 
-- 🔭 I'm a full time developer.
+- 🔭 I'm a full stack and time developer.
 - 🌱 I'm a Software Engineer, specialized in Javascript,PHP.
-
-<br />
-
-### ⚡ Connect with me:
-
-[<img align="left" alt="social-media-profile | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="social-media-profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.ca372e9fc0b9ef75]
-<br />
 
 <br />
 
@@ -41,8 +32,17 @@
  <img alt="topstar210's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=topstar210&custom_title=topstar210's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 
 
----
+--
 <br />
 <img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=topstar210&show_icons=true&hide_border=true" />
 
+<br />
 
+### ⚡ Connect with me:
+
+[<img align="left" alt="social-media-profile | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="social-media-profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.ca372e9fc0b9ef75]
+<br />
+
+<br />
