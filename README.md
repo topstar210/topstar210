@@ -40,6 +40,8 @@
 [facebook]: https://www.facebook.com/
 [instagram]: https://www.instagram.com/
 
+<br /><br />
+---
 
 ### ⚡ Recent GitHub Activity
 <br/>
