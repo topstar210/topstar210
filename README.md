@@ -3,7 +3,7 @@
 ## Professional Web & Blockchain Developer.
 
 - 🔭 I'm a full stack and time developer.
-- 🌱 I'm a Software Engineer, specialized in Javascript,PHP.
+- 🌱 I'm a Software Engineer, specialized in Javascript, PHP.
 
 <br />
 
