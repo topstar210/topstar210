@@ -27,8 +27,8 @@ I am an open-minded web developer who's ready for new challenges. I've spent mos
 
 ### ⚡ Connect with me:
 
-<a href="https://t.me/AlSmile0210"><img align="left" alt="social-media-profile | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
-<a href="https://join.skype.com/invite/u7wpUCf5vKVC"><img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /></a>
+<a href="https://t.me/AlSmile0210" target="_blank"><img align="left" alt="social-media-profile | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+<a href="https://join.skype.com/invite/u7wpUCf5vKVC" target="_blank"><img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /></a>
 <br />
 
 <br />
