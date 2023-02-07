@@ -1,5 +1,7 @@
-### Hi there. 👋
+### Hello 👋
 
+<br />
+I am an open-minded web developer who's ready for new challenges. I've spent most of my career in web development—starting with PHP, later working with Javascript and golang, and now I am mastering the front-end field. I love working with great people, inspiring others, and being inspired.
 <br />
 
 ### ⚡ Languages and Tools:
@@ -22,15 +24,10 @@
 <br />
 <br />
 
-### ⚡ Recent GitHub Activity
-<br/>
- <img alt="topstar210's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=topstar210&custom_title=topstar210's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
-
 
 ### ⚡ Connect with me:
 
-<img align="left" alt="social-media-profile | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<img align="left" alt="social-media-profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="[https://join.skype.com/invite/u7wpUCf5vKVC](https://t.me/AlSmile0210)"><img align="left" alt="social-media-profile | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /></a>
 <a href="https://join.skype.com/invite/u7wpUCf5vKVC"><img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /></a>
 <br />
 
