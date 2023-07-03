@@ -6,8 +6,8 @@ I am an open-minded web developer who's ready for new challenges. I've spent mos
 
 #### Front End 
    - HTML5, CSS3, SCSS/SASS, JavaScript, TypeScript, Jquery <br />
-   - React/React-Native, Angular, Vue.js<br />
-   - Bootstrap, Tailwind CSS, Material UI, Vuetify, Quasar
+   - React/Next, React-Native, Vue/Nuxt, Angular<br />
+   - Tailwind CSS, Bootstrap, Material UI, Vuetify, Quasar
  
 #### Back End
    - PHP, CodeIgniter, Laravel<br />
