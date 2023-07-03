@@ -7,14 +7,14 @@ I am an open-minded web developer who's ready for new challenges. I've spent mos
 #### Front End 
    - HTML5, CSS3, SCSS/SASS, JavaScript, TypeScript, Jquery <br />
    - React/React-Native, Angular, Vue.js<br />
-   - Bootstrap, Tailwind CSS, Material UI, Vuetify, Quasar<br />
+   - Bootstrap, Tailwind CSS, Material UI, Vuetify, Quasar
  
 #### Back End
    - PHP, CodeIgniter, Laravel<br />
    - Node.js, Express, Nest.js<br />
    - Python, Django, Ruby on Rails, GoLang<br />
    - RESTful/GraphQL APIs<br />
-   - SQL(MySQL, PostgreSQL, AWS RDS), NoSQL(MongoDB, AWS DynamoDB)<br />
+   - SQL(MySQL, PostgreSQL, AWS RDS), NoSQL(MongoDB, AWS DynamoDB)
  
 #### Blockchain
    - Solidity, Rust, Reach<br />
@@ -29,6 +29,7 @@ I am an open-minded web developer who's ready for new challenges. I've spent mos
    - Github, Bitbucket, Jira, Trello, Clickup for teamwork<br />
    - Netlify, Heroku, Firebase, Vercel for deployment<br />
 
+<br />
 
 ### ⚡ Languages and Tools:
 
