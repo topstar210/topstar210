@@ -17,12 +17,11 @@ I am an open-minded web developer who's ready for new challenges. I've spent mos
    - SQL(MySQL, PostgreSQL, AWS RDS), NoSQL(MongoDB, AWS DynamoDB)
  
 #### Blockchain
-   - Solidity, Rust, Reach<br />
+   - Solidity, Rust<br />
    - Ethereum, BSC, Solana, Algorand, Polygon, Avalanche<br />
    - ERC20, ERC721, ERC1155<br />
-   - Hardhat, Remix, IPFS, Openzeppelin<br />
+   - Hardhat, Remix<br />
    - web3.js, ethers.js <br />
-   - Moralis, Web3-React, Block-Native <br />
  
  #### Services && Libraries
    - AWS, Google Cloud Platform, Microsoft Azure for cloud-based environment<br />
