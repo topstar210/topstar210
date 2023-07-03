@@ -3,6 +3,31 @@
 <br />
 I am an open-minded web developer who's ready for new challenges. I've spent most of my career in web development—starting with PHP, later working with Javascript and golang, and now I am mastering the front-end field. I love working with great people, inspiring others, and being inspired.
 <br />
+## Front End
+   - HTML5, CSS3, SCSS/SASS, JavaScript, TypeScript, Jquery
+   - React/React-Native, Angular, Vue.js
+   - Bootstrap, Tailwind CSS, Material UI, Vuetify, Quasar
+ 
+##  Back End
+   - PHP, CodeIgniter, Laravel
+   - Node.js, Express, Nest.js
+   - Python, Django, Ruby on Rails, GoLang
+   - RESTful/GraphQL APIs
+   - SQL(MySQL, PostgreSQL, AWS RDS), NoSQL(MongoDB, AWS DynamoDB)
+ 
+##  Blockchain 
+   - Solidity, Rust, Reach
+   - Ethereum, BSC, Solana, Algorand, Polygon, Avalanche
+   - ERC20, ERC721, ERC1155
+   - Hardhat, Remix, IPFS, Openzeppelin
+   - web3.js, ethers.js 
+   - Moralis, Web3-React, Block-Native 
+ 
+ ##  Services && Libraries
+   - AWS, Google Cloud Platform, Microsoft Azure for cloud-based environment
+   - Github, Bitbucket, Jira, Trello, Clickup for teamwork
+   - Netlify, Heroku, Firebase, Vercel for deployment![image](https://github.com/topstar210/topstar210/assets/109362950/923adec4-d40d-4bbe-84f5-8e50afb3db0c)
+
 
 ### ⚡ Languages and Tools:
 
