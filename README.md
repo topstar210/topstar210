@@ -3,19 +3,20 @@
 <br />
 I am an open-minded web developer who's ready for new challenges. I've spent most of my career in web development—starting with PHP, later working with Javascript and golang, and now I am mastering the front-end field. I love working with great people, inspiring others, and being inspired.
 <br />
-## Front End 
-   - HTML5, CSS3, SCSS/SASS, JavaScript, TypeScript, Jquery<br />
+
+#### Front End 
+   - HTML5, CSS3, SCSS/SASS, JavaScript, TypeScript, Jquery <br />
    - React/React-Native, Angular, Vue.js<br />
    - Bootstrap, Tailwind CSS, Material UI, Vuetify, Quasar<br />
  
-##  Back End
+#### Back End
    - PHP, CodeIgniter, Laravel<br />
    - Node.js, Express, Nest.js<br />
    - Python, Django, Ruby on Rails, GoLang<br />
    - RESTful/GraphQL APIs<br />
    - SQL(MySQL, PostgreSQL, AWS RDS), NoSQL(MongoDB, AWS DynamoDB)<br />
  
-##  Blockchain <br />
+#### Blockchain
    - Solidity, Rust, Reach<br />
    - Ethereum, BSC, Solana, Algorand, Polygon, Avalanche<br />
    - ERC20, ERC721, ERC1155<br />
@@ -23,7 +24,7 @@ I am an open-minded web developer who's ready for new challenges. I've spent mos
    - web3.js, ethers.js <br />
    - Moralis, Web3-React, Block-Native <br />
  
- ##  Services && Libraries
+ #### Services && Libraries
    - AWS, Google Cloud Platform, Microsoft Azure for cloud-based environment<br />
    - Github, Bitbucket, Jira, Trello, Clickup for teamwork<br />
    - Netlify, Heroku, Firebase, Vercel for deployment<br />
