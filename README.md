@@ -3,30 +3,30 @@
 <br />
 I am an open-minded web developer who's ready for new challenges. I've spent most of my career in web development—starting with PHP, later working with Javascript and golang, and now I am mastering the front-end field. I love working with great people, inspiring others, and being inspired.
 <br />
-## Front End
-   - HTML5, CSS3, SCSS/SASS, JavaScript, TypeScript, Jquery
-   - React/React-Native, Angular, Vue.js
-   - Bootstrap, Tailwind CSS, Material UI, Vuetify, Quasar
+## Front End 
+   - HTML5, CSS3, SCSS/SASS, JavaScript, TypeScript, Jquery<br />
+   - React/React-Native, Angular, Vue.js<br />
+   - Bootstrap, Tailwind CSS, Material UI, Vuetify, Quasar<br />
  
 ##  Back End
-   - PHP, CodeIgniter, Laravel
-   - Node.js, Express, Nest.js
-   - Python, Django, Ruby on Rails, GoLang
-   - RESTful/GraphQL APIs
-   - SQL(MySQL, PostgreSQL, AWS RDS), NoSQL(MongoDB, AWS DynamoDB)
+   - PHP, CodeIgniter, Laravel<br />
+   - Node.js, Express, Nest.js<br />
+   - Python, Django, Ruby on Rails, GoLang<br />
+   - RESTful/GraphQL APIs<br />
+   - SQL(MySQL, PostgreSQL, AWS RDS), NoSQL(MongoDB, AWS DynamoDB)<br />
  
-##  Blockchain 
-   - Solidity, Rust, Reach
-   - Ethereum, BSC, Solana, Algorand, Polygon, Avalanche
-   - ERC20, ERC721, ERC1155
-   - Hardhat, Remix, IPFS, Openzeppelin
-   - web3.js, ethers.js 
-   - Moralis, Web3-React, Block-Native 
+##  Blockchain <br />
+   - Solidity, Rust, Reach<br />
+   - Ethereum, BSC, Solana, Algorand, Polygon, Avalanche<br />
+   - ERC20, ERC721, ERC1155<br />
+   - Hardhat, Remix, IPFS, Openzeppelin<br />
+   - web3.js, ethers.js <br />
+   - Moralis, Web3-React, Block-Native <br />
  
  ##  Services && Libraries
-   - AWS, Google Cloud Platform, Microsoft Azure for cloud-based environment
-   - Github, Bitbucket, Jira, Trello, Clickup for teamwork
-   - Netlify, Heroku, Firebase, Vercel for deployment![image](https://github.com/topstar210/topstar210/assets/109362950/923adec4-d40d-4bbe-84f5-8e50afb3db0c)
+   - AWS, Google Cloud Platform, Microsoft Azure for cloud-based environment<br />
+   - Github, Bitbucket, Jira, Trello, Clickup for teamwork<br />
+   - Netlify, Heroku, Firebase, Vercel for deployment<br />
 
 
 ### ⚡ Languages and Tools:
