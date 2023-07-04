@@ -5,6 +5,7 @@ I am an open-minded web developer who's ready for new challenges. I've spent mos
 <br />
 
 ### ⚡ Languages and Tools:
+<br />
 
 #### Front End 
    - HTML5, CSS3, SCSS/SASS, JavaScript, TypeScript, Jquery <br />
