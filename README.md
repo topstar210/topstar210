@@ -1,7 +1,7 @@
 ### Hello 👋
 
 <br />
-I am an open-minded web developer who's ready for new challenges. I've spent most of my career in web development—starting with PHP, later working with Javascript and golang, and now I am mastering the front-end field. I love working with great people, inspiring others, and being inspired.
+I am an open-minded fullstack developer who's ready for new challenges. I've spent most of my career in web development—starting with javascript, later working with PHP and Python, and now I am mastering the front-end field. I love working with great people, inspiring others, and being inspired.
 <br />
 <br />
 
