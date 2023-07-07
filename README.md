@@ -8,29 +8,22 @@ I am an open-minded web developer who's ready for new challenges. I've spent mos
 <br />
 
 #### Front End 
-   - HTML5, CSS3, SCSS/SASS, JavaScript, TypeScript, Jquery <br />
-   - React/Next, React-Native, Vue/Nuxt, Angular<br />
-   - Tailwind CSS, Bootstrap, Material UI, Vuetify, Quasar
+   ✔ React | Vue | Angular | Next | Nuxt <br />
+   ✔ JavaScript (ES5/ES6) | Typescript | CSS (CSS3, LESS/SCSS, SASS) | Bootstrap | Tailwind CSS | HTML5 <br />
+   ✔ WebRTC | socket.io <br />
  
 #### Back End
-   - PHP, CodeIgniter, Laravel<br />
-   - Node.js, Express, Nest.js<br />
-   - Python, Django, Ruby on Rails, GoLang<br />
-   - RESTful/GraphQL APIs<br />
-   - SQL(MySQL, PostgreSQL, AWS RDS), NoSQL(MongoDB, AWS DynamoDB)
- 
-#### Blockchain
-   - Solidity, Rust<br />
-   - Ethereum, BSC, Solana, Algorand, Polygon, Avalanche<br />
-   - ERC20, ERC721, ERC1155<br />
-   - Hardhat, Remix<br />
-   - web3.js, ethers.js <br />
- 
- #### Services && Libraries
-   - AWS, Google Cloud Platform, Microsoft Azure for cloud-based environment<br />
-   - Github, Bitbucket, Jira, Trello, Clickup for teamwork<br />
-   - Netlify, Heroku, Firebase, Vercel for deployment<br />
+   ✔ Node.js <br />
+   ✔ PHP | Laravel | CodeIgniter | Python | Golang <br />
 
+#### Database
+   ✔ MySQL | PostgreSQL | MS SQL Server | MongoDB <br />
+ 
+#### Cloud Services
+   ✔ Amazon Web Services | Google Cloud | Godaddy | Heroku | Firebase | Trello <br />
+ 
+#### BlockChain
+   ✔ Web3.js | Solidity | Golang | DeFi
 <br />
 
 
