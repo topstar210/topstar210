@@ -1,9 +1,6 @@
 ### Hello 👋
-
-<br />
 I am an open-minded fullstack developer who's ready for new challenges. I've spent most of my career in web development—starting with javascript, later working with PHP and Python, and now I am mastering the front-end field. I love working with great people, inspiring others, and being inspired.
 <br />
-
 ### ⚡ Languages and Tools:
 #### Front End 
    ✔ React | Vue | Angular | Next | Nuxt <br />
