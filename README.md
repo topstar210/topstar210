@@ -4,11 +4,12 @@ I am an open-minded fullstack developer who's ready for new challenges. I've spe
 ### ⚡ Languages and Tools:
 #### Front End 
    ✔ React | Vue | Angular | Next | Nuxt <br />
-   ✔ JavaScript (ES5/ES6) | Typescript | CSS (CSS3, LESS/SCSS, SASS) | Bootstrap | Tailwind CSS | HTML5 <br />
+   ✔ JavaScript (ES5/ES6) | Typescript | CSS (CSS3, SCSS, SASS) | Tailwind CSS | Bootstrap | HTML5 <br />
    ✔ WebRTC | socket.io 
 #### Back End
    ✔ Node.js <br />
-   ✔ PHP | Laravel | CodeIgniter | Python | Golang
+   ✔ PHP | Laravel | CodeIgniter <br />
+   ✔ Python | Golang
 #### Database
    ✔ MySQL | PostgreSQL | MS SQL Server | MongoDB
 #### Cloud Services
